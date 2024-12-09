@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TempMonitor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1779df38678505ca15c1c798f89f77c46b9023e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("TempMonitor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TempMonitor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

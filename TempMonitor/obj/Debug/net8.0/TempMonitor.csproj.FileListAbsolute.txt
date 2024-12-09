@@ -57,3 +57,4 @@ C:\Users\Arthur Cruz\Documents\projetos pessoais\TempMonitor\TempMonitor\bin\Deb
 C:\Users\Arthur Cruz\Documents\projetos pessoais\TempMonitor\TempMonitor\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.IO.Ports.dll
 C:\Users\Arthur Cruz\Documents\projetos pessoais\TempMonitor\TempMonitor\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.IO.Ports.dll
 C:\Users\Arthur Cruz\Documents\projetos pessoais\TempMonitor\TempMonitor\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Management.dll
+C:\Users\Arthur Cruz\Documents\projetos pessoais\TempMonitor\TempMonitor\obj\Debug\net8.0\TempMonitor.sourcelink.json
